@@ -1,0 +1,13 @@
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\bin\Debug\SailboatDestinationWinForms.exe.config
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\bin\Debug\SailboatDestinationWinForms.exe
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\bin\Debug\SailboatDestinationWinForms.pdb
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\bin\Debug\MetroFramework.dll
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\obj\Debug\SailboatDestinationWinForms.csprojResolveAssemblyReference.cache
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\obj\Debug\SailboatDestinationWinForms.SailboatDestination.resources
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\obj\Debug\SailboatDestinationWinForms.Properties.Resources.resources
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\obj\Debug\SailboatDestinationWinForms.csproj.GenerateResource.cache
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\obj\Debug\SailboatDestinationWinForms.csproj.CoreCompileInputs.cache
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\obj\Debug\SailboatDestinationWinForms.csproj.CopyComplete
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\obj\Debug\SailboatDestinationWinForms.exe
+C:\Users\mmirzyns\source\repos\SailboatDestinationWinForms\SailboatDestinationWinForms\obj\Debug\SailboatDestinationWinForms.pdb
